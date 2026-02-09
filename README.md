@@ -168,3 +168,6 @@ Les Websites peuvent être privés ou publics. Un projet public peut être visib
 * Seuls les sniplets dont les droits importent peu sont disponibles : la navigation (puisque ses droits sont les mêmes que ceux du projet), ainsi que les documents et le carousel (avec l'upload en public également).
 
 Les liens ajoutés dans l'éditeur restent donc privés s'ils pointent vers du contenu privé. Les contenus copiés-collé intégrant des images ou des sons privés restent privés.
+
+
+Ce dépôt est un miroir officiel du dépôt Edifice : https://github.com/edificeio/pages
