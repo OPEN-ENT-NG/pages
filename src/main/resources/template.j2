@@ -2,6 +2,11 @@
   "name": "fr.wseduc~pages",
   "config": {
     "main": "fr.wseduc.pages.Pages",
+    "probes": [
+      "org.entcore.common.http.health.Neo4jProbe",
+      "org.entcore.common.http.health.MongoProbe",
+      "fr.wseduc.webutils.metrics.EventBusProbe"
+    ],
     "port": 8025,
     "app-name": "Pages",
     "app-address": "/pages",
